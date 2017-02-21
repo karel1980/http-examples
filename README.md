@@ -6,9 +6,11 @@ curl -v http://httpbin.org/get?foo=bar
 
 ## Different HTTP methods
 
-
+http://pastebin.com/api
 
 ## Different Status Codes
+
+https://http.cat/
 
 # soap example:
 
@@ -22,5 +24,4 @@ https://xkcd.com/json.html
 
 https://yesno.wtf/api/
 
-http://pastebin.com/api
 
